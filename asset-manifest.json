@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fooddelivery/static/css/main.7ca0e694.css",
+    "main.js": "/fooddelivery/static/js/main.7e2cb9e7.js",
+    "static/js/787.38b3b920.chunk.js": "/fooddelivery/static/js/787.38b3b920.chunk.js",
+    "static/media/firstpagei.jpg": "/fooddelivery/static/media/firstpagei.9f0eb2db39e59532108e.jpg",
+    "static/media/footer.jpg": "/fooddelivery/static/media/footer.99116cdc329a953bcfee.jpg",
+    "static/media/firstpp.png": "/fooddelivery/static/media/firstpp.e1b982cc8e04c7337e4d.png",
+    "static/media/firstp2.png": "/fooddelivery/static/media/firstp2.bfffb1eb2857727ca9f1.png",
+    "static/media/page4i.png": "/fooddelivery/static/media/page4i.d2523b125920fef257c4.png",
+    "static/media/boxi2.png": "/fooddelivery/static/media/boxi2.bdb35ae66c7072c8fd87.png",
+    "static/media/logo.png": "/fooddelivery/static/media/logo.af6d2fae4fa1a1529027.png",
+    "static/media/page2l.png": "/fooddelivery/static/media/page2l.43441857b1e291e0acb7.png",
+    "static/media/boxi3.png": "/fooddelivery/static/media/boxi3.fd26ce8f2bd5856967b5.png",
+    "static/media/boxi4.png": "/fooddelivery/static/media/boxi4.0ca014edbe5f07df0ec5.png",
+    "static/media/page3i.png": "/fooddelivery/static/media/page3i.c464fb7fe973bb3c9a01.png",
+    "static/media/egg.jpg": "/fooddelivery/static/media/egg.14db7186e08e45194056.jpg",
+    "static/media/chillchken.jpg": "/fooddelivery/static/media/chillchken.0ef8472de2ef82262ac8.jpg",
+    "static/media/spicychicken1.jpg": "/fooddelivery/static/media/spicychicken1.a1da458ed4c23875148f.jpg",
+    "index.html": "/fooddelivery/index.html",
+    "main.7ca0e694.css.map": "/fooddelivery/static/css/main.7ca0e694.css.map",
+    "main.7e2cb9e7.js.map": "/fooddelivery/static/js/main.7e2cb9e7.js.map",
+    "787.38b3b920.chunk.js.map": "/fooddelivery/static/js/787.38b3b920.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca0e694.css",
+    "static/js/main.7e2cb9e7.js"
+  ]
+}
